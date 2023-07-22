@@ -23,7 +23,7 @@ Throughout my career, I have worked on a wide range of projects, from small-scal
 * ✨ [EG Mobile](http://onelink.to/s8p7n8), is one of my works recognized by [GoogleIOExtended 2023 Ghana](https://twitter.com/MrKwakuAmoh/status/1667636644197945344) for it's wonderful UX & Intuitive interface
 * 🌱 I’m currently learning **Golang, UX Research & Python for AI**.
 * 📫 How to reach me **qwakuaa@gmail.com**
-* 🤝 When I'm less occupied, I teach/ mentor newbies for free on coding lessons & software enginering desciplines at [PHPGrammers](https://github.com/PHPGrammers](https://chat.whatsapp.com/GqcJBwH0fv39Hirj5X4JZM))
+* 🤝 When I'm less occupied, I teach/ mentor newbies for free on coding lessons & software enginering desciplines at [PHPGrammers](https://chat.whatsapp.com/GqcJBwH0fv39Hirj5X4JZM)
 * 🤝  I'm open to collaborating on any interesting project
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ket-c" alt="ket-c" /></a> </p>
