@@ -15,8 +15,8 @@ Throughout my career, I have worked on a wide range of projects, from small-scal
 
 * 🌍 I currently live in Haatso - Accra, Ghana.
 * 📄 Know about my experiences [https://linktr.ee/kwaku.aa](https://linktr.ee/kwaku.aa)
-* 🔭 I maintain [PHPCrubib](https://github.com/PHPGrammers/PHPCRUDLib)
-* 👯 I’m looking for more collaborators on [PHPCrubib](https://github.com/PHPGrammers/PHPCRUDLib)
+* 🔭 I maintain [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
+* 👯 I’m looking for more collaborators on [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
 * 💬 Ask me about **Laravel, Vanilla PHP, JS, Flutter, VueJS, Databases, Cyber Security**
 * ✨ I engineered the backend & architecture for the popular [Night Market App](https://linktr.ee/kwaku.aa) in university of Ghana
 * ✨ I'm also dev on the Ghana's first [Super App (ShaQ Express)](https://onelink.to/daay5j)
