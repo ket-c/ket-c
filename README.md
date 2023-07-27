@@ -14,7 +14,7 @@ Throughout my career, I have worked on a wide range of projects, from small-scal
 
 
 * 🌍 I currently live in Haatso - Accra, Ghana.
-* 📄 Know about my experiences [https://linktr.ee/kwaku.aa](https://linktr.ee/kwaku.aa)
+* 📄 Know about my **experiences** and **portfolio** [https://linktr.ee/kwaku.aa](https://linktr.ee/kwaku.aa)
 * 🔭 I maintain [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
 * 👯 I’m looking for more collaborators on [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
 * 💬 Ask me about **Laravel, Vanilla PHP, JS, Flutter, VueJS, Databases, Cyber Security**
