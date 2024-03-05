@@ -22,7 +22,7 @@ Throughout my career, I have worked on a wide range of projects, from small-scal
 * ✨ I engineered the backend & architecture for the popular [Night Market App](https://linktr.ee/kwaku.aa) which is also a top 10 AppStore ranking app.
 * ✨ I was also developer team lead for Ghana's first [Super App (ShaQ Express)](https://onelink.to/daay5j)
 * ✨ [EG Mobile](http://onelink.to/s8p7n8), is one of my works recognized by [GoogleIOExtended 2023 Ghana](https://twitter.com/MrKwakuAmoh/status/1667636644197945344) for it's wonderful UX & Intuitive interface
-* ✨ [Premium Peaches](https://premiumpeaches.com) is a lovely app a built for a** South African company** using flutter web. it also has ios and android app versions
+* ✨ [Premium Peaches](https://premiumpeaches.com) is a lovely app a I developed for a ** South African company** using **flutter web** with responsiveness. it also has ios app and android app versions
 * 🌱 I’m currently learning **Golang, UX Research & Python for AI**.
 * 🌱 I have learned **Reactjs** by chance and I'm loving it & looking forward to add **c#** if I can
 * 📫 How to reach me **qwakuaa@gmail.com**
