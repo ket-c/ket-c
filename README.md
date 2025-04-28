@@ -18,7 +18,7 @@ Throughout my career, I have worked on a wide range of projects, from small-scal
 * 🔭 I maintain [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
 * 👯 I’m looking for more collaborators on [PHPCRUDLib](https://github.com/PHPGrammers/PHPCRUDLib)
 * 💬 Ask me about **Laravel, Vanilla PHP, JS, Flutter, VueJS, Databases, Cyber Security, Cloud Engineering**
-* ✨ I'm a dev for a US company in Orlando called [GTN](https://gtnllc.com)
+* ✨ I'm an ex dev for a US company in Orlando called [GTN](https://gtnllc.com)
 * ✨ I engineer the backend & architecture for the popular [Night Market App](https://linktr.ee/kwaku.aa) which is also a top 10 AppStore ranking app.
 * ✨ I was also developer team lead for Ghana's first [Super App (ShaQ Express)](https://onelink.to/daay5j)
 * ✨ [EG Mobile](http://onelink.to/s8p7n8), is one of my works recognized by [GoogleIOExtended 2023 Ghana](https://twitter.com/MrKwakuAmoh/status/1667636644197945344) for it's wonderful UX & Intuitive interface
